@@ -1,6 +1,6 @@
-# flutter_dart_shop_app
+# Flutter Dart Shop App
 
-Flutter Demo Shop App
+This is a Flutter demo shop app.
 
 ## Getting Started
 
